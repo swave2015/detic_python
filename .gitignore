@@ -1,4 +1,3 @@
-third_party/detectron2
 ./models
 configs-experimental
 experiments
@@ -60,3 +59,5 @@ _darcs
 /projects/*/datasets
 /models
 /snippet
+/test_input
+video_out/
