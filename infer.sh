@@ -1,0 +1,1 @@
+python demo.py --config-file configs/Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml --video-input /data/caoxh/code/detic_python/test_input/elevator.mp4 --output /data/caoxh/code/detic_python/video_out --vocabulary lvis --opts MODEL.WEIGHTS models/Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.pth
